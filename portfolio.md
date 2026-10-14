@@ -5,15 +5,10 @@ Name: Rayyan Ahmed Mohamed Sharif
 Major: Computer Programming and Analysis
 
 ## Skills
-<<<<<<< HEAD
-- Programming: C++, JavaScript
+- Programming: Python, Java, C++, JavaScript
 - Git: Advanced
-- Database: SQL
-=======
-- Programming: Python, Java
-- Git: Intermediate
 - Web Development: HTML, CSS
->>>>>>> desktop-updates
+- Database: SQL
 
 ## Projects
 - Project 1: TBD
@@ -24,7 +19,7 @@ Email: ramohamed-sharif@myseneca.ca
 
 ---
 
-## Lab 7 Reflection - Merge Conflicts
+## Lab 7 Reflection – Merge Conflicts
 
 ### 1. Why did the conflict occur?
 - Both branches edited the same lines under `## Skills` at the same time.
