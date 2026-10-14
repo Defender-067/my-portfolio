@@ -1,10 +1,13 @@
+# My Portfolio
+
 ## About Me
 Name: Rayyan Ahmed Mohamed Sharif
-Major: Computer Programming And Analysis
+Major: Computer Programming and Analysis
 
 ## Skills
-- Programming: Basic
-- Git: Learning
+- Programming: C++, JavaScript
+- Git: Advanced
+- Database: SQL
 
 ## Projects
 - Project 1: TBD
